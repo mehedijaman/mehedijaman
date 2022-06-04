@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mehedijaman&left_color=green&right_color=red)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mehedijaman&left_color=green&right_color=red)
 ### Hi there 👋
 
 <!--
