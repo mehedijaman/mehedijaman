@@ -22,4 +22,4 @@ I am Mehedi Jaman, currently working on Laravel Framework based projects. I am a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedijaman&hide=TeX&layout=compact)
 
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mehedijaman&left_color=green&right_color=red)
+![ProfileViews](https://visitor-badge.glitch.me/badge?page_id=mehedijaman&left_color=green&right_color=red)
