@@ -6,7 +6,7 @@ I am Mehedi Jaman, currently working on Laravel Framework based projects. I am a
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-C51A4A?style=flat-square&logo=Laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
