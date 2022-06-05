@@ -6,6 +6,7 @@ I am Mehedi Jaman, currently working on Laravel Framework based projects. I am a
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel%20Pi-C51A4A?style=flat-square&logo=Laravel)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -15,7 +16,7 @@ I am Mehedi Jaman, currently working on Laravel Framework based projects. I am a
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mehedijaman&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedijaman&hide=TeX&layout=compact)
