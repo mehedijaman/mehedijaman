@@ -4,9 +4,9 @@ I am Mehedi Jaman, currently working on Laravel Framework based projects. I am a
 
 ## ⚡ Technologies
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -20,9 +20,9 @@ I am Mehedi Jaman, currently working on Laravel Framework based projects. I am a
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mehedijaman&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedijaman&hide=TeX&layout=compact)
-<!--
-**mehedijaman/mehedijaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**mehedijaman/mehedijaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
