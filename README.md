@@ -16,7 +16,3 @@ I am Mehedi Jaman, currently working on Laravel Framework based projects. I am a
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mehedijaman&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedijaman&hide=TeX&layout=compact)
